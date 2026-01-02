@@ -5,7 +5,7 @@ This repository provides a **Dockerized setup to run Illumina `bcl-convert`** on
 This container is ideal for:
 - Running **bcl-convert** on Ubuntu/Debian systems.
 
-# BCL Convert Doker
+# BCL Convert Docker
 
 Download the latest version of bcl-convert from https://emea.support.illumina.com/sequencing/sequencing_software/bcl-convert/downloads.html
 
