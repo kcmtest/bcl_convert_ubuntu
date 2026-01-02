@@ -4,7 +4,6 @@ This repository provides a **Dockerized setup to run Illumina `bcl-convert`** on
 
 This container is ideal for:
 - Running **bcl-convert** on Ubuntu/Debian systems.
-- Reproducible and portable BCL-to-FASTQ conversion workflows.
 
 # BCL Convert Doker
 
